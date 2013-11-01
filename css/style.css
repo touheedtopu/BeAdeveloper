@@ -1,13 +1,43 @@
 @charset "utf-8";
 /* CSS Document */
+body.html
 
+{background:center; color:#CCCCCC;}
+#wraper{background:#999999; 
+width:auto;
+margin:auto;
+background-image:url(../img/026c.jpg);
 
+     }
 
-h1{color:#CC3333;
+h1,h2,h3,h4{color:#FF0000; font-size:36px;
+            margin:inherit;
                 }
+#topu2 ul,li,ol{color:#FF0000;
 
-P[id]{background-color="para1"]
 }
+b{font-size:36px;}
+#topu{padding:10px;
+width:1200px;
+border:20px solid #000000;
+       background:#333333;
+	   margin:inherit;
+	   }
 
+#topu2{padding:5px;
+width:1200px;
+border:20px solid #000000;
+       background:#000000;
+	   margin:auto;
+	   }
+	   
+#topu p{color:#CC3333; font-size:24px;}
 
+#topu3{padding:10px;
+width:1200px;
+margin:auto;
+       background:#000000;
+	   }
 
+topu3 li{color:#00FF66;
+   }

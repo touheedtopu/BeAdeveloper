@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+#t1 p{color:#;}
+
+h1 {color:#0099CC;}
+#t2 th{color:#009999;}
+#t2{display:inline; float:left;}
+
+#table3 th{color:#006699;}
+#table3{display:inline; float:left;}
+
+
+#table4 th{color:#0099CC;}
+#table4{display:inline-table; float:left;}
+
+#table5 th{color:#006699;
+           }
+#table5{display:inline; float:right;
+           }		   
+		   
+#table6	th{color:#0099CC;}	   

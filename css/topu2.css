@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+#wraper{background-image:url(../img/101.jpg);
+        padding:10px;
+		background-color:#666666; width:auto;
+        }
+		
+#form{padding:20px;
+}
+#form b{font-size:18px;
+        color:#FF0066;
+		
+}
+
+h1,h2,{font-size:24px;padding:5px;
+      
+}
