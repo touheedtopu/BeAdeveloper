@@ -1,22 +1,17 @@
 @charset "utf-8";
 /* CSS Document */
 
-#t1 p{color:#;}
 
-h1 {color:#0099CC;}
-#t2 th{color:#009999;}
-#t2{display:inline; float:left;}
+#table h3{color:#006699;}
+#table1 th{color:#003399;}
+.class1{display:inline; float:left;}
 
-#table3 th{color:#006699;}
-#table3{display:inline; float:left;}
-
-
-#table4 th{color:#0099CC;}
-#table4{display:inline-table; float:left;}
-
-#table5 th{color:#006699;
-           }
-#table5{display:inline; float:right;
-           }		   
-		   
-#table6	th{color:#0099CC;}	   
+#wraper{padding:5px;
+        margin:200px;
+		padding:120px;
+		padding-right:20px;
+		border:3px dotted;
+		background-color:#CCCCCC;
+		}
+#table2 th{color:#0033CC;
+          }		

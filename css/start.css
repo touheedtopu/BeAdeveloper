@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+#wraper{background:#000000;
+border:5px solid #6699FF;
+padding:5px;
+        width:auto;
+		margin:0px;
+		background-image:url(../img/033.jpg);
+}           		   
+#tab1{padding:10px;
+      margin:0px;}		   
+#tab2{padding:10px;
+      margin:0px;
+	 }
+#tab2 p{color:#00CCCC; font-size:24px;
+}	  
+#tab2 h3{color:#CC3300; font-size:24px;
+}
